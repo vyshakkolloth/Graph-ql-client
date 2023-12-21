@@ -33,11 +33,11 @@ This is a sample project showcasing a client-side React application that utilize
 `yarn dev`
 
 # Project Structure
-**src/:** Contains the source code of the React application.
-**components/:** React components used in the application.
-**queries/:** GraphQL queries and mutations.
-**pages/:** Top-level pages or views of the application.
-**sdsds**:sdsd
+* src/:  Contains the source code of the React application.
+* components/:  React components used in the application.
+* queries/:  GraphQL queries and mutations.
+* pages/:  Top-level pages or views of the application.
+
 
 ## GraphQL Queries and Mutations
 The GraphQL queries and mutations used in the project are located in the src/queries/ directory.
@@ -66,5 +66,8 @@ The GraphQL queries and mutations used in the project are located in the src/que
         phone
     }
     }
-`
+
 ```
+![graph ql](https://drive.google.com/file/d/1j_8K1RZBfow9ogrFzBwqBOK2t0oQ0vqs/view?usp=sharing)
+
+![graph ql](https://drive.google.com/file/d/1fiFbmyQRm55b3m-Mwh9zQyAUl4v8LD75/view?usp=sharing)
